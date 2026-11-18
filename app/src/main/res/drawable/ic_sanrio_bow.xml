@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Center Node -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M12,10c-1.1,0 -2,0.9 -2,2s0.9,2 2,2s2,-0.9 2,-2S13.1,10 12,10z"/>
+    <!-- Left Loop -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M10.8,11.2C8.5,8.8 3.5,8 3,11.5c-0.4,2.8 3.8,3.7 7.2,1.2C10.5,12.3 10.7,11.7 10.8,11.2z"/>
+    <!-- Right Loop -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M13.2,11.2c2.3,-2.4 7.3,-3.2 7.8,0.3c0.4,2.8 -3.8,3.7 -7.2,1.2C13.5,12.3 13.3,11.7 13.2,11.2z"/>
+    <!-- Left Ribbon Tail -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M11,13.5l-3,6.5l3,-1.5l2,-5z"/>
+    <!-- Right Ribbon Tail -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M13,13.5l3,6.5l-3,-1.5l-2,-5z"/>
+</vector>

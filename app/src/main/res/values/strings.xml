@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExpenseNote-41</string>
+    <string name="title_expense_note">บันทึกค่าใช้จ่ายประจำวัน</string>
+
+    <string name="title_main">บันทึกค่าใช้จ่ายประจำวัน</string>
+    <string name="subtitle_main">จดทุกบาทที่ใช้วันนี้ให้ครบเลยนะ</string>
+    <string name="label_amount">โปรดใส่จำนวนเงิน (เป็นบาท)</string>
+    <string name="hint_amount">เช่น 100 หรือ 10.25</string>
+    <string name="label_note">คำอธิบาย</string>
+    <string name="hint_note">เช่น ก๋วยเตี๋ยวเรือมื้อเที่ยง</string>
+    <string name="btn_save">บันทึกรายการ</string>
+    <string name="btn_clear">เคลียร์</string>
+    <string name="btn_add">เพิ่มรายการ</string>
+    <string name="title_recent">รายการล่าสุด (ยอดรวมวันนี้)</string>
+    <string name="no_records">0.00 บาท</string>
+    <string name="error_invalid_amount">กรุณากรอกจำนวนเงินให้ถูกต้อง</string>
+    <string name="item_added">บันทึกรายการเรียบร้อยแล้ว</string>
+    <string name="item_deleted">ลบรายการเรียบร้อยแล้ว</string>
+    <string name="confirm_clear_title">ล้างรายการทั้งหมด</string>
+    <string name="confirm_clear_message">คุณต้องการลบรายการบันทึกทั้งหมดหรือไม่?</string>
+    <string name="confirm">ยืนยัน</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="cleared_all">ล้างรายการทั้งหมดเรียบร้อยแล้ว</string>
+</resources>

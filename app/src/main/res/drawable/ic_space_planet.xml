@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <!-- Planet ring back -->
+    <path
+        android:fillColor="#FF99DD"
+        android:pathData="M5,24 C5,20 13,16 24,16 C35,16 43,20 43,24 C43,28 35,32 24,32 C13,32 5,28 5,24 Z"
+        android:alpha="0.4"/>
+    <!-- Planet body -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M24,8 C32.8,8 40,15.2 40,24 C40,32.8 32.8,40 24,40 C15.2,40 8,32.8 8,24 C8,15.2 15.2,8 24,8 Z"/>
+    <!-- Planet surface highlight -->
+    <path
+        android:fillColor="#FF80BF"
+        android:pathData="M16,14 C19,14 21,16 21,19 C21,22 19,24 16,24 C13,24 11,22 11,19 C11,16 13,14 16,14 Z"/>
+    <path
+        android:fillColor="#FFB3DA"
+        android:pathData="M30,30 C32,30 33,31 33,33 C33,35 32,36 30,36 C28,36 27,35 27,33 C27,31 28,30 30,30 Z"/>
+    <!-- Planet ring front -->
+    <path
+        android:fillColor="#FFE0F0"
+        android:pathData="M4,24 C4,21.5 12.9,19.5 24,19.5 C35.1,19.5 44,21.5 44,24 C44,26.5 35.1,28.5 24,28.5 C12.9,28.5 4,26.5 4,24 Z"
+        android:alpha="0.85"/>
+</vector>

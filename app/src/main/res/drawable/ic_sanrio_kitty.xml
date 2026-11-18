@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="44dp"
+    android:height="44dp"
+    android:viewportWidth="32"
+    android:viewportHeight="32">
+    <!-- Left Ear -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FF80AB"
+        android:strokeWidth="1.5"
+        android:pathData="M7,12 L3,3 L13,7 Z"/>
+    <!-- Right Ear -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FF80AB"
+        android:strokeWidth="1.5"
+        android:pathData="M25,12 L29,3 L19,7 Z"/>
+    <!-- Face -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#FF80AB"
+        android:strokeWidth="1.5"
+        android:pathData="M16,7 C23,7 29,11 29,18 C29,25 23,28 16,28 C9,28 3,25 3,18 C3,11 9,7 16,7 Z"/>
+    <!-- Left Inner Ear Pink -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M7,10 L5,5 L11,8 Z"/>
+    <!-- Right Inner Ear Pink -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M25,10 L27,5 L21,8 Z"/>
+    <!-- Eyes -->
+    <path
+        android:fillColor="#334155"
+        android:pathData="M11,18 A1.5,2 0 1,1 11,17.99 Z"/>
+    <path
+        android:fillColor="#334155"
+        android:pathData="M21,18 A1.5,2 0 1,1 21,17.99 Z"/>
+    <!-- Nose -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M16,20 A1.5,1 0 1,1 16,19.99 Z"/>
+    <!-- Bow Center -->
+    <path
+        android:fillColor="#FF4081"
+        android:pathData="M24,7 A2,2 0 1,1 24,6.99 Z"/>
+    <!-- Bow Left Loop -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M22,7 C20,5 20,9 22,7 Z"/>
+    <!-- Bow Right Loop -->
+    <path
+        android:fillColor="#FF80AB"
+        android:pathData="M26,7 C28,5 28,9 26,7 Z"/>
+</vector>

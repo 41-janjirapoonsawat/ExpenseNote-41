@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Pink Space / Pink Galaxy Palette -->
+    <color name="pink_space_bg_start">#FF85C0</color>
+    <color name="pink_space_bg_center">#D946EF</color>
+    <color name="pink_space_bg_end">#5B1067</color>
+
+    <!-- Card & UI Elements -->
+    <color name="pink_space_card_bg">#D9380B4A</color> <!-- Translucent Dark Magenta Space Card -->
+    <color name="pink_space_card_stroke">#FF9EE2</color> <!-- Glowing Pink Stroke -->
+    <color name="pink_space_card_inner">#4A125E</color>
+
+    <color name="pink_space_input_bg">#FFF0F7</color> <!-- Light Soft Pink Input background for readability -->
+    <color name="pink_space_input_stroke">#FF69B4</color>
+
+    <color name="pink_space_btn_start">#FF2A85</color>
+    <color name="pink_space_btn_end">#FF73B6</color>
+
+    <color name="pink_space_btn_sec_bg">#5E146E</color>
+    <color name="pink_space_btn_sec_stroke">#FFB6E9</color>
+    <color name="pink_space_btn_sec_text">#FFE5F6</color>
+
+    <color name="pink_space_text_white">#FFFFFF</color>
+    <color name="pink_space_text_title">#FFFFFF</color>
+    <color name="pink_space_text_sub">#FFE0F4</color>
+    <color name="pink_space_text_label">#FFC2EB</color>
+    <color name="pink_space_text_hint">#A07398</color>
+    <color name="pink_space_divider">#FF9EE2</color>
+</resources>
